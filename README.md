@@ -1,17 +1,17 @@
 "name": "parcel-project-template",
   "version": "2.0.0",
-  "description": "https://github.com/SKuzyk/fson50-html-css-project-10/new/main?readme=1",
-  "homepage": ",
+  "description": "",
+  "homepage": " https://github.com/SKuzyk/fson50-html-css-project-10/edit/main/README.md",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /fson50-html-css-project-10/"
+    "build": "parcel build src/*.html --public-url /fson55-html-css-project-10/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Sofia Kuzyk <sofiyka.kuzyk@gmail.com">,
+  "author": "Sofia Kuzyk <sofiyka.kuzyk@gmail.com >",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
@@ -25,5 +25,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
-}
+  "browserslist": "> 0.5%, last 2 versions, not dead" . 
+  
